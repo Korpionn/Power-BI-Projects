@@ -1,0 +1,101 @@
+Customer_ID,Customer_Name,DOB,Gender,Location,Loyalty_Status
+1,QFV,9-Nov-90,M,Dallas,Bronze
+2,XNI,9-Nov-73,F,Chicago,Gold
+3,VBN,11-Jan-75,M,Boston,Platinum
+4,AMR,26-Jun-85,M,Seattle,Platinum
+5,DWV,27-Dec-92,F,Houston,Gold
+6,YVG,16-Aug-84,F,Seattle,Platinum
+7,FOY,29-Mar-92,F,Miami,Silver
+8,ULQ,10-Jan-99,M,San Francisco,Silver
+9,YPJ,24-Aug-70,F,Denver,Gold
+10,CYC,5-Jan-85,F,Chicago,Gold
+11,DSA,5-Mar-92,M,San Francisco,Gold
+12,WRY,26-Nov-83,F,San Francisco,Silver
+13,ECD,13-Jul-90,M,Los Angeles,Platinum
+14,XOD,11-Sep-85,M,San Francisco,Bronze
+15,ZRH,5-Apr-80,M,Boston,Gold
+16,JMD,4-Feb-87,M,Houston,Gold
+17,WDA,6-Apr-84,F,Boston,Gold
+18,FRF,15-May-81,M,Seattle,Gold
+19,VWV,27-Oct-77,M,Miami,Platinum
+20,FLB,15-Oct-90,M,New York,Bronze
+21,TDX,23-Apr-95,M,Los Angeles,Gold
+22,TLA,4-Feb-83,M,Seattle,Platinum
+23,ZBB,19-Apr-90,F,New York,Platinum
+24,ZKF,15-Aug-92,M,San Francisco,Platinum
+25,TNW,8-Aug-89,M,Houston,Bronze
+26,TNJ,17-Mar-79,M,Chicago,Platinum
+27,XYT,20-Nov-97,F,Seattle,Silver
+28,KKA,30-Oct-78,M,Seattle,Silver
+29,AXW,20-Sep-74,M,Chicago,Platinum
+30,FHX,5-Jan-92,F,New York,Gold
+31,GHJ,14-Sep-97,F,New York,Gold
+32,QCB,7-Mar-93,F,Denver,Gold
+33,FBT,28-Apr-94,F,Houston,Bronze
+34,NER,16-Apr-74,M,Los Angeles,Platinum
+35,VIE,30-Oct-99,M,Houston,Platinum
+36,LGC,29-Oct-72,M,Chicago,Silver
+37,GWF,2-Jan-87,F,New York,Platinum
+38,ZCK,23-Jan-72,F,Houston,Platinum
+39,UJI,5-Dec-83,M,Boston,Bronze
+40,CLU,31-Jan-90,M,Seattle,Platinum
+41,KNW,25-Jun-78,M,Denver,Silver
+42,XDS,22-Nov-87,F,Boston,Bronze
+43,JST,22-Dec-77,M,Los Angeles,Silver
+44,XVG,19-Jun-72,M,San Francisco,Bronze
+45,DBE,27-Nov-80,F,Los Angeles,Silver
+46,QJH,19-Sep-77,F,Dallas,Gold
+47,LHD,23-May-84,F,Seattle,Bronze
+48,RCM,11-Apr-71,M,Chicago,Platinum
+49,VHR,21-Sep-84,F,San Francisco,Gold
+50,PXE,22-May-71,M,New York,Silver
+51,UZG,24-Sep-75,F,Dallas,Platinum
+52,XDH,27-Dec-94,F,Dallas,Platinum
+53,MMN,31-Dec-86,M,Miami,Platinum
+54,VZH,29-Apr-70,F,Houston,Bronze
+55,VMY,8-Dec-79,M,Los Angeles,Bronze
+56,OTO,24-Feb-79,F,Miami,Bronze
+57,UJM,2-May-90,F,New York,Platinum
+58,MEQ,8-Oct-00,M,Miami,Bronze
+59,WNM,6-Jan-74,M,Dallas,Platinum
+60,QXD,5-Oct-74,F,Dallas,Platinum
+61,OCV,23-Dec-73,M,New York,Silver
+62,BFF,4-Sep-97,M,Boston,Silver
+63,TXO,22-Mar-73,F,Boston,Bronze
+64,VES,6-Nov-71,M,San Francisco,Silver
+65,OJE,25-Mar-79,F,Boston,Gold
+66,YRQ,29-Jun-72,F,New York,Silver
+67,TEB,10-Sep-72,F,Los Angeles,Gold
+68,XRJ,13-Jun-80,F,Houston,Gold
+69,WBN,6-Feb-74,F,Chicago,Bronze
+70,CBH,20-Jul-88,F,Seattle,Silver
+71,AAT,16-Feb-75,M,Seattle,Platinum
+72,GWA,16-Jul-89,F,San Francisco,Gold
+73,MYV,16-Jul-82,F,Chicago,Gold
+74,WZO,7-Dec-86,M,Dallas,Bronze
+75,QWP,2-Dec-91,F,New York,Silver
+76,HXD,11-Mar-93,F,Miami,Platinum
+77,GNU,15-Jun-93,M,San Francisco,Silver
+78,PFM,2-Jun-81,F,New York,Platinum
+79,LNG,26-Apr-00,M,Houston,Gold
+80,GVL,13-Jul-91,M,Boston,Bronze
+81,VOW,5-Aug-90,M,Chicago,Gold
+82,ZQT,26-Mar-95,M,Denver,Gold
+83,IPM,30-Jul-79,F,Boston,Platinum
+84,IPA,18-Sep-73,M,Seattle,Gold
+85,PYW,4-Dec-97,F,Seattle,Silver
+86,WET,27-Jul-72,M,Boston,Silver
+87,HJI,4-Nov-95,M,Miami,Silver
+88,XFY,4-Mar-82,F,San Francisco,Bronze
+89,TGI,5-Apr-76,M,Los Angeles,Platinum
+90,SKI,21-Feb-90,F,Los Angeles,Platinum
+91,FEE,21-Jun-82,M,Miami,Bronze
+92,VBW,30-Jan-97,F,Seattle,Silver
+93,RJA,31-Jan-00,M,Los Angeles,Platinum
+94,YTV,15-Jun-98,M,New York,Gold
+95,BHE,2-Apr-78,F,Seattle,Platinum
+96,NXE,28-Jan-71,M,Denver,Platinum
+97,SAI,18-Jan-81,F,San Francisco,Silver
+98,LAX,24-Jan-94,M,New York,Bronze
+99,COI,7-Apr-00,F,Boston,Silver
+100,AML,13-Sep-73,M,Houston,Platinum
